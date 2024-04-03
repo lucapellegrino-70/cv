@@ -11660,3 +11660,10 @@ a:hover {
 .img-profile {
     background-color: #fff;
 }
+.portfolio-img {
+	width:100%;
+}
+
+.no-underline{
+	text-decoration:none;
+}
